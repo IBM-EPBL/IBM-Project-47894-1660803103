@@ -32,7 +32,7 @@
  - Project Planning Phase
     - [x] Milestone & Activity List
     - [x] Sprint Delivery Plan
- - Project Development Phase
+### - Project Development Phase
     - [x]Sprint 1
     - [x]Sprint 2
     - [x]Sprint 3
