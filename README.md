@@ -7,7 +7,7 @@
 
 **Batch:** B7 - 1A3E 
 
-**Team Leader:**Nithikroshan k
+**Team Leader:** Nithikroshan k
 
 **Team Members:** Muralitharan k, Naveen M, Jeeva M
 
