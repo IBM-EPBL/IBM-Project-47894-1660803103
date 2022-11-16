@@ -38,7 +38,9 @@
     - [x] Sprint 3
     - [x] Sprint 4
     
-   - [x] Final Deliverables
+  -  Final Deliverables
+    
+     - [x] Final Deliverables
     
     
 ### Assignments
